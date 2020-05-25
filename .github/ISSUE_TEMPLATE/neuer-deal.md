@@ -1,5 +1,5 @@
 ---
-name: Neuer Deal
+name: Neues Deal-Issue
 about: Vorlage für Neuer Deal
 title: Titel für neuen Deal
 labels: enhancement
