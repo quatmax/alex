@@ -7,11 +7,11 @@ assignees: quatmax
 
 ---
 
-Deal Nr.: 
-
-Aufwand Entwicklung: in h
-Aufwand QA: in h
+Angebot Nr.: 
+Aufwand Entwicklung:  h
+Aufwand QA:  h
 Anforderung: 
 geplante Umsetzung: 
-abzuklären vor Angebotslegung: 
-abzuklären nach Bestellung:
+- [ ] abzuklären vor Angebotslegung: 
+- [ ] abzuklären nach Bestellung: 
+- [ ] RefDB scharf?
